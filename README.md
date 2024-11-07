@@ -10,7 +10,8 @@ pip install opencv-python
 ### Option 2: Install OpenCV with a Virtual Environment
 Creating a virtual environment helps manage dependencies and keep your system Python installation clean. Follow these steps:
 
-Set up a virtual environment by following the instructions in this guide.
+Set up a virtual environment by following the instructions in this guide:-
+https://www.geeksforgeeks.org/python-virtual-environment/
 
 Once inside your virtual environment, install OpenCV with:
 pip install opencv-python
